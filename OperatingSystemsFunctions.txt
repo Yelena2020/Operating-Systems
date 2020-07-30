@@ -3,3 +3,6 @@ Memory management, where the operating handles and manages the primary memory an
 
 User Interface Description:
 UI is the point of human-computer interaction and communication in a device. It is also the way through which a user interacts with an application or website. The goal of effective UI is to make the user's experience easy, requiring minimum effort on the user's part to receive maximum desired outcome.
+
+Performance Monitor Definition:
+Monitors overall system health to help improve performance. Records the response time between service requests and system response to have a complete view of the system health. This can help improve performance by providing important information needed to troubleshoot problems.
