@@ -1,0 +1,2 @@
+Memory Managment Description:
+Memory management, where the operating handles and manages the primary memory and moves the processes back and forth between the main memory and the secondary memory such as hard drive during execution. Memory management also keeps track of all the memory locations, regardless of whether they are allocated to some processor it free. It checks the amount of memory that is to be allocated to particular processes.
