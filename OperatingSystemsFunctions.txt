@@ -1,2 +1,5 @@
 Memory Managment Description:
 Memory management, where the operating handles and manages the primary memory and moves the processes back and forth between the main memory and the secondary memory such as hard drive during execution. Memory management also keeps track of all the memory locations, regardless of whether they are allocated to some processor it free. It checks the amount of memory that is to be allocated to particular processes.
+
+User Interface Description:
+UI is the point of human-computer interaction and communication in a device. It is also the way through which a user interacts with an application or website. The goal of effective UI is to make the user's experience easy, requiring minimum effort on the user's part to receive maximum desired outcome.
